@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: ([https://your-live-site-url.com](https://marayshiela.github.io/NFT-Preview-Card/)
+- Live Site URL: (https://marayshiela.github.io/NFT-Preview-Card/)
 
 ### Built with
 
