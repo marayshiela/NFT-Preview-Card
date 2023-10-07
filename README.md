@@ -74,7 +74,6 @@ To see how you can add code snippets, see below:
 - Website - [Maray, Shiela](https://marayshiela-va.online/)
 - Frontend Mentor - [@marayshiela](https://www.frontendmentor.io/profile/marayshiela)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
 ## Acknowledgments
 
